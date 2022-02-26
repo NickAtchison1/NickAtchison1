@@ -243,10 +243,10 @@ div.clear {
 
 
 @media (min-width: 768px) {
-    .jumbotron {
+    /* .jumbotron {
         background-image: url(assets/skillsgraphmobile.PNG);
         background-size: cover;
-    }
+    } */
     .jumbotron h1 {
         font-size: 4em;
     }
@@ -255,10 +255,10 @@ div.clear {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-    .jumbotron {
+    /* .jumbotron {
         background-image: url(assets/skillsgraphmobile.PNG);
         background-size: cover;
-    }
+    } */
     .jumbotron h1 {
         font-size: 6em;
     }
