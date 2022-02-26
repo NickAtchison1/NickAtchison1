@@ -280,12 +280,16 @@ div.clear {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+    .jumbotron {
+        background-image: url(assets/skillsgraphmobile.PNG);
+        background-size: cover;
+    }
     .jumbotron h1 {
         font-size: 6em;
     }
 }
 
-/* Large devices (large desktops, 1200px and up) */
+/* Large devices (large desktops, 1200px and up) */ 
 @media (min-width: 1200px) {
     .jumbotron h1 {
         font-size: 8em;
