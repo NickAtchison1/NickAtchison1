@@ -268,6 +268,10 @@ div.clear {
 
 
 @media (min-width: 768px) {
+    .jumbotron {
+        background-image: url(assets/skillsgraphmobile.PNG);
+        background-size: cover;
+    }
     .jumbotron h1 {
         font-size: 4em;
     }
