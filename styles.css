@@ -8,6 +8,10 @@ body, html {
     background-size: 100% 100%;
     -o-background-size: 100% 100%;
 }
+.jumbotron {
+    background-image: url(assets/skillsgraph.PNG);
+    background-size: cover;
+}
 
 p {
     font-size: 1.2em;
@@ -208,7 +212,7 @@ h2 {
     padding: 2px 16px;
   }
 
-img {
+  .card-img-top {
     width: 100%;
     height: 20em;
     
