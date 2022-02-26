@@ -9,7 +9,7 @@ body, html {
     -o-background-size: 100% 100%;
 }
 .jumbotron {
-    background-image: url(assets/skillsgraph.PNG);
+    background-image: url(assets/skillsgraphmobile.PNG);
     background-size: cover;
 }
 
@@ -53,34 +53,9 @@ hr {
     float: right;
 }
 
-.imgBackground {
-    /* padding: 2.5em 0 0.5em;
-    margin: 0 0 2.0em; */
-    background: url(assets/background2.jfif);
-    height: 30%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
 
-.imgBackground h1 {
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 7.5em;
-    text-align: center;
-    letter-spacing: -0.025em;
-    padding: 0.1em;
-    color: white;
-    background-color: black;
-    transform: translate(-50%, -50%);
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    border-radius: 10px;
-    opacity: 0.85;
-   /* margin: 0; */
-    
-}
+
+
 
 
 nav#loginMenu {
