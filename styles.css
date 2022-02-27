@@ -249,6 +249,9 @@ div.clear {
     }
     .jumbotron h1 {
         font-size: 4em;
+        color: white;
+        font-weight: bold;
+        text-shadow: 2px 2px #111;
     }
   
 }
@@ -261,6 +264,9 @@ div.clear {
     } 
     .jumbotron h1 {
         font-size: 6em;
+        color: white;
+        font-weight: bold;
+        text-shadow: 2px 2px #111;
     }
 }
 
@@ -272,6 +278,9 @@ div.clear {
     } 
     .jumbotron h1 {
         font-size: 8em;
+        color: black;
+        font-weight: bold;
+        text-shadow: 2px 2px white
     }
 }
      
